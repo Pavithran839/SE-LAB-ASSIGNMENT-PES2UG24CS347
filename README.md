@@ -1,7 +1,4 @@
 # SE-LAB-ASSIGNMENT-PES2UG24CS347
-Software Engineering Lab Assignments
-# SE-LAB-ASSIGNMENT
-
 **Software Engineering Laboratory Assignments**
 
 This repository contains the Software Engineering Laboratory assignments, including PDFs, diagrams, documentation, and GitHub repository links.
